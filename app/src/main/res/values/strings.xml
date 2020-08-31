@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTTalk</string>
+    <string name="main_btRequestText">Please grant Bluetooth permission to use this app</string>
+    <string name="main_buttonLeft">Exit</string>
+    <string name="main_buttonRight">Accept</string>
+    <string name="connect_paired_plaintext">Paired devices:</string>
+    <string name="connect_available_plaintext">Available devices:</string>
+    <string name="connect_none_paired">No devices are available.</string>
+    <string name="connect_available_search">Listen</string>
+</resources>
